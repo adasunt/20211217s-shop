@@ -1,4 +1,4 @@
-# v-shop
+# v-shops
 
 ## Project setup
 ```
