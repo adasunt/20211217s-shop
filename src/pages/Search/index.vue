@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Search</h1>
+        <h1>params:{{$route.params}}</h1>
     </div>
 </template>
 

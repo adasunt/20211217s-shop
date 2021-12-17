@@ -13,6 +13,11 @@ import Footer from '@/components/Footer'
     components:{
       Header,
       Footer
+    },
+    data(){
+      return{
+        msg:"111"
+      }
     }
   }
 </script>
