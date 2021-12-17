@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-我是大坏蛋
+you are biaozi
